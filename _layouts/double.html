@@ -1,0 +1,44 @@
+{% include header.html %}
+
+<div class="posts-double clearfix">
+	{% for post in site.posts limit: 10 %}
+
+	<div onclick="window.location.href='{{ post.url }}'" class="mypost-double clearfix">
+	   	<div class="date">
+	   		{{ post.date | date: "<p class='date-top'>%-d</p><p class='bottom-date'>%b %Y</p>" }}
+	   	</div>
+	  	<div class="postcontent">
+	    	{% if post.content contains '<!--more-->' %}
+    			{{ post.content | split:'<!--more-->' | first }}
+			{% else %}
+    			{{ post.content }}
+			{% endif %}
+	    	<p class="readmore">
+	      		<a href="{{ post.url }}">Read Post</a>
+	    	</p>
+	  	</div>
+
+	</div>
+
+	{% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+	<div class="pagination">
+		<div class="innerpagi clearfix">
+		  	{% if paginator.previous_page %}
+		    	<a class="previous" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Previous</a>
+		  	{% else %}
+		    	<span class="previous off">&laquo; Previous</span>
+		  	{% endif %}
+
+		  	{% if paginator.next_page %}
+		    	<a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+		  	{% else %}
+		    	<span class="next off">Next &raquo;</span>
+		  	{% endif %}
+		</div>
+	</div>
+{% endif %}
+
+{% include footer.html %}

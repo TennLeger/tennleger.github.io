@@ -1,0 +1,9 @@
+name: "Tennessee Leger"
+description: "a native Nashvillian writes on the 109th General Assembly"
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty # http://jekyllrb.com/docs/permalinks/

@@ -1,0 +1,18 @@
+
+		</div>
+
+		<footer class="clearfix">
+			<p>2014 &copy {{ site.name }} | Designed by <a href="http://www.themeforest.net/user/uziiuzair">Tennessee Leger</a></p>
+
+			<ul class="social">
+				<li><a href="http://www.facebook.com/TNLeger"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-flickr"></i></a></li>
+				<li><a href="http://www.twitter.com/TNLeger"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="http://www.youtube.com/TennLeger"><i class="fa fa-youtube-play"></i></a></li>
+				<li><a href="http://www.instagram.com/TNLeger"><i class="fa fa-instagram"></i></a></li>
+			</ul>
+
+		</footer>
+
+	</body>
+</html>

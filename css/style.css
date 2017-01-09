@@ -125,7 +125,7 @@
 		}
 
 			.intro .center ul.social li:first-child {
-				margin-auto;
+				margin-left: 5px;
 			}
 
 			.intro .center ul.social li {

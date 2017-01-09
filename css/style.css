@@ -121,7 +121,7 @@
 			list-style: none;
 			display: block;
 			margin: 15px auto;
-			width: 33px;
+			width: 200px;
 		}
 
 			.intro .center ul.social li:first-child {
@@ -130,7 +130,7 @@
 
 			.intro .center ul.social li {
 				float: left;
-				margin-left: 5px; 
+				margin-auto; 
 				width: 33px;
 			}
 

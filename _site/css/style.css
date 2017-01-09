@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+﻿@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
 
 /* Pre Configs */
 	*, *:before, *:after {
@@ -125,7 +125,7 @@
 		}
 
 			.intro .center ul.social li:first-child {
-				margin-left: 0;
+				margin-auto;
 			}
 
 			.intro .center ul.social li {
@@ -482,7 +482,7 @@
 		}
 
 		footer ul.social li:first-child {
-			margin-left: 0;
+			margin-auto;
 		}
 
 		footer p {

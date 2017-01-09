@@ -130,7 +130,7 @@
 
 			.intro .center ul.social li {
 				float: left;
-				margin-auto; 
+				margin-left: 5px; 
 				width: 33px;
 			}
 

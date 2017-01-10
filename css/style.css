@@ -212,7 +212,7 @@
 			}
 
 			.mypost:hover .date p {
-				color: #111;
+				color: #555555;
 			}
 
 		.mypost .date p {
@@ -306,7 +306,7 @@
 			}
 
 			.mypost-double:hover .date p {
-				color: #111;
+				color: #555555;
 			}
 
 		.mypost-double .date p {
@@ -407,7 +407,7 @@
 
 	footer p {
 		text-align: center;
-		color: #111;
+		color: #555555;
 	}
 
 	footer ul.social {

@@ -29,7 +29,7 @@ This year, [Senator Mark Green](http://www.capitol.tn.gov/senate/members/S22.htm
 
 So what does $88 million annually buy the people of the State of Tennessee? To put that figure into perspective, we can take a quick look at the [State budget](http://www.tn.gov/finance/article/fa-budget-publication-2016-2017). Here are a few items that would be covered by the amount of the annual revenue from the professional privilege tax:
 
-* The Adoption Services program provides financial support payments to adoptive parents and treatment and counseling services for families to mee,t the needs of adopted children. Post-adoption records services are provided to adults who were adopted as youth in Tennessee. Actual budget FY 2014-2015: $88,739,400.00, only $44,195,000 of which is from State funds
+* The Adoption Services program provides financial support payments to adoptive parents and treatment and counseling services for families to meet the needs of adopted children. Post-adoption records services are provided to adults who were adopted as youth in Tennessee. Actual budget FY 2014-2015: $88,739,400.00, only $44,195,000 of which is from State funds
 
 * The Family Support Services program, which provides a variety of services that support families with children that are at risk of coming into state custody, ensures that children who enter state custody are provided with appropriate treatment and care and assists with adoptions of special needs children, as well as the John S. Wilder Youth Development Center, the Woodland Hills Youth Development Center, and the Mountain View Youth Development Center. Actual combined budgets FY 2014-2015: $82,293,200.00, only $60,796,500 of which is from State funds
 

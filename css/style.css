@@ -43,7 +43,9 @@
 		a:hover {
 			color: 	#003366;
 		}
-
+		a:link {
+			color: 	#003366;
+		}
 	h1 {
 		color: #555;
 		font-weight: 400;

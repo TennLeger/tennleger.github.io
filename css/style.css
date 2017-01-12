@@ -46,6 +46,9 @@
 		a:link {
 			color: 	#003366;
 		}
+		a:visited {
+    			color: #003366;
+		}
 	h1 {
 		color: #555;
 		font-weight: 400;

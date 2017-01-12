@@ -174,22 +174,22 @@
 		}
 
 			.mypost:hover {
-				background-color: 	#003366;
+				background-color: 	#fff;
 			}
 
 			.mypost:hover h1, .mypost:hover p, .mypost:hover a {
-				color: #fff;
+				color: #003366;
 			}
 
 			.mypost:hover a:hover {
-				color: #fff;
+				color: #003366;
 				display: block;
 			}
 
 			.mypost:hover a:hover:after {
 				content: " >>";
 				font-family: "Open Sans";
-				color: #fff;
+				color: #003366;
 				font-size: 15px;
 			}
 
@@ -276,14 +276,14 @@
 			}
 
 			.mypost-double:hover a:hover {
-				color: #fff;
+				color: #003366;
 				display: block;
 			}
 
 			.mypost-double:hover a:hover:after {
 				content: " >>";
 				font-family: "Open Sans";
-				color: #fff;
+				color: #003366;
 				font-size: 15px;
 			}
 

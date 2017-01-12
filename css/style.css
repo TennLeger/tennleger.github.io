@@ -40,14 +40,20 @@
 		color: #555;
 	}
 
-		a:hover {
-			color: 	#003366;
-		}
 		a:link {
 			color: 	#003366;
+			text-decoration: underline;
 		}
 		a:visited {
     			color: #003366;
+			text-decoration: underline;
+		}
+		a:hover {
+			color: 	#003366;
+		}
+		a:active {
+			color: 	#003366;
+			text-decoration: underline;
 		}
 	h1 {
 		color: #555;

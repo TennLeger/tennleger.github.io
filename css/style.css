@@ -41,18 +41,18 @@
 	}
 
 		a:link {
-			color: 	#003366;
+			color: 	#BA0101;
 			text-decoration: underline;
 		}
 		a:visited {
-    			color: #003366;
+    			color: #BA0101;
 			text-decoration: underline;
 		}
 		a:hover {
-			color: 	#003366;
+			color: 	#BA0101;
 		}
 		a:active {
-			color: 	#003366;
+			color: 	#BA0101;
 			text-decoration: underline;
 		}
 	h1 {

@@ -93,7 +93,7 @@
 			}
 
 				#nav nav ul li a:hover {
-					color: 	#003366;
+					color: 	#fff;
 				}
 
 	/* Intro */
@@ -144,7 +144,7 @@
 			}
 
 				.intro .center ul.social li a:hover {
-					color: 	#003366
+					color: 	#fff
 				}
 
 
@@ -184,14 +184,14 @@
 			}
 
 			.mypost:hover a:hover {
-				color: #003366;
+				color: #fff;
 				display: block;
 			}
 
 			.mypost:hover a:hover:after {
 				content: " >>";
 				font-family: "Open Sans";
-				color: #003366;
+				color: #fff;
 				font-size: 15px;
 			}
 
@@ -278,14 +278,14 @@
 			}
 
 			.mypost-double:hover a:hover {
-				color: #003366;
+				color: #fff;
 				display: block;
 			}
 
 			.mypost-double:hover a:hover:after {
 				content: " >>";
 				font-family: "Open Sans";
-				color: #003366;
+				color: #fff;
 				font-size: 15px;
 			}
 

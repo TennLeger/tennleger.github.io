@@ -7,7 +7,7 @@ title: Restoring Veteran Tax Relief
 
 Starting in the early 70s, Tennessee provided property tax relief to low-income elderly or disabled persons, as well as disabled veterans and their surviving spouses. The state would pay the first $175,000 of appraised value on the disabled veteran's home, or the first $25,000 value on the home of a low-income person who was elderly or disabled. 
 
-The Comptroller of the Treasury administers the Tax Relief Program. Funds are allocated by the Governor to cover Tax Relief in the state budget every year. As the following chart shows (or [view the data and chart here](https://docs.google.com/spreadsheets/d/14kV80aKN1jvUmlUMz_ZlJoGIy_9Tr2OKL-Br0IXKKZc/edit?usp=sharing)), Tennessee maintains a consistently low base amount of funding for Tax Relief, despite the fact the actual cost of the program is consistently rising. Typically the Governor compensates for this "shortfall" by allocating supplementary funds for the program. For example, $2.5M in supplementary funds was allocated for 2013, $2.75M for 2014, and $3M for 2015.
+The Comptroller of the Treasury administers the Tax Relief Program. Funds are allocated by the Governor to cover Tax Relief in the state budget every year. As the [data and chart here shows](https://docs.google.com/spreadsheets/d/14kV80aKN1jvUmlUMz_ZlJoGIy_9Tr2OKL-Br0IXKKZc/edit?usp=sharing)), Tennessee maintains a consistently low base amount of funding for Tax Relief, despite the fact the actual cost of the program is consistently rising. Typically the Governor compensates for this "shortfall" by allocating supplementary funds for the program. For example, $2.5M in supplementary funds was allocated for 2013, $2.75M for 2014, and $3M for 2015.
 
 <a href="/img/TNTaxReliefBudget.png">
 

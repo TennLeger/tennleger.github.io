@@ -13,9 +13,9 @@ Rep. Butt's primary argument in presenting this Bill is that there exists an obe
 
 Tennessee's record of poverty and hunger is well-established, but what of our obesity rate? It's incredibly unsurprising given the prevalence of poverty and hunger. [We are currently the 9th most obese state]( http://stateofobesity.org/adult-obesity/), a ranking that tracks well with our poverty and hunger rates. The Centers for Disease Control (CDC) published a profile in September 2016 on [Tennessee State Nutrition, Physical Activity, and Obesity](https://www.cdc.gov/nccdphp/dnpao/state-local-programs/profiles/tennessee.html) which provided the following statistics: 
 
-Adults: 30.8% obese 
-Adolescents: 15.8% obese 
-Children: 15.2% overweight, 14.5% obese 
+* Adults: 30.8% obese 
+* Adolescents: 15.8% obese 
+* Children: 15.2% overweight, 14.5% obese 
 
 The CDC report along with the [Tennessee obesity data chart here]([Tennessee-specific data found here](https://nccd.cdc.gov/NPAO_DTM/LocationSummary.aspx?state=Tennessee).
 ) attempts to analyze some of the behavioral reasons for these obesity rates, such as the consumption of fruit, vegetables, and sugary drinks, as well as physical activity. Only 22.9% of adolescents in the survey participated in daily physical education at school, although 41.3% drank soda daily. Perhaps our students would feel more energized by a little daily exercise than they would by a quick jolt of sugar and caffeine. Interestingly, Representative Bill Dunn filed [HB0045](http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0045&GA=110) today, which would delete the requirement for LEA's to provide students with periods of physical activity, allowing schools to eliminate any exercise time for their students (presumably giving them more time to study for their standardized tests). More constructively, Senator Becky Duncan Massey filed [SB0049](http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0049&GA=110), the "Tennessee Lactation Consultant Practice Act," which would provide for the licensing of breastfeeding consultants, an important step given the CDC data on how breastfeeding affects child obesity. 

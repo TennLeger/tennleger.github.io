@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Unneccesarily Broad Bills
+title: Unnecessarily Broad Bills
 ---
 
-# Unneccesarily Broad Bills
+# Unnecessarily Broad Bills
 
 Representative Dan Howell filed [HB0074](http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0074&GA=110), a Bill which purports to remove an "obsolete" reporting requirement for the Commissioner of the Department of Environment and Conservation. Before analyzing the merits of the Bill, it's worth examining a procedural problem that plagues our General Assembly. This Bill is filed very broadly, opening up all of Title 4 (State Government), all of Title 11 (Natural Areas), and all of Title 64 (Regional Authorities). Particularly when a Bill changes a very specific part of a statute, it is better to cite the Title, Chapter, and Part the Bill is amending, not only to help citizens identify the change the lawmaker is proposing, but also in order to prevent ill-conceived or even dishonest legislation. Sometimes, most especially when legislation proposes a broad, sweeping change, it is necessary to open up an entire Title and Chapter, or several Titles when the subject matter is spread out across the Tennessee Code. 
 

@@ -4,6 +4,7 @@ title: Nashville Tax Abatements
 ---
 
 # Nashville Tax Abatements
+
 The Metro Nashville Council Meeting last night was one for the history books, and while I have a great deal to say about the Council's response to the mourners and protestors of Jocques Clemmons' death, first I want to address some other Council proceedings which spoke to what may seem like an unrelated but what is actually a tangential issue in Nashville.
 
 Passed on second reading was [Ordinance No. BL2017-589](http://www.nashville.gov/mc/ordinances/term_2015_2019/bl2017_589.htm), an ordinance designed to grant Gaylord Opryland Resort & Convention Center a tax abatement package for developing a new water park complex for the use of guests of the Opryland Hotel. The package has several elements:
